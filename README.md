@@ -1,8 +1,8 @@
 <!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) -->
 <p align="center">
-  <!-- Example for GIF-based animation -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Developer Workflow Cosmos" />
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%" alt="Futuristic Tech Banner" />
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!" alt="Typing SVG" />
