@@ -1,17 +1,3 @@
-<!-- TOP PURPLE-PINK GRADIENT BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" alt="Purple Pink Gradient Banner"/>
-</p>
-
-<!-- CODE-THEMED ICONS ROW -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/code.svg" width="36" alt="Code Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gear.svg" width="32" alt="Gear Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terminal.svg" width="32" alt="Terminal Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sparkles.svg" width="28" alt="Sparkles Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chevron.svg" width="28" alt="Chevron Icon"/>
-</p>
-
 <!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!;Passionate+Data+Scientist" alt="Typing SVG" />
@@ -41,6 +27,8 @@
   <br/>
   <i>- Austin Freeman</i>
 </blockquote>
+
+
 
 <!-- ABOUT ME SECTION -->
 <h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="28"/> About Me</h2>
@@ -94,11 +82,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasee10&show_icons=true&theme=dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasee10&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</p>
-
-<!-- BOTTOM PURPLE-PINK GRADIENT BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" alt="Purple Pink Gradient Banner"/>
 </p>
 
 
