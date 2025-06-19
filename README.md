@@ -11,6 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasee10" alt="hasee10" /></a> </p>
 
+<!-- ABOVE THIS DO NOT CHANGE -->
 
 <!-- Quotes Section -->
 <blockquote align="center">
@@ -28,68 +29,79 @@
 </blockquote>
 
 
-<!-- GIF Grid Section -->
-<table align="center">
-  <tr>
-    <td><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="180" alt="React"/></td>
-    <td><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="180" alt="Python"/></td>
-    <td><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="180" alt="Web Dev"/></td>
-    <td><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="UI/UX"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="180" alt="Game Dev"/></td>
-    <td><img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180" alt="Data Science"/></td>
-    <td><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" alt="DevOps"/></td>
-    <td><img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180" alt="MLOps"/></td>
-  </tr>
-</table>
+<!-- DARK THEME BANNER (simulate dark background) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Dark Banner"/>
+</p>
 
-<!-- About Me Section -->
-<h2 align="center">🚀 About Me</h2>
-<ul>
-  <li>🔭 I'm currently working on <b>Nascon_Project</b></li>
-  <li>🌱 I'm currently learning <b>DevOps, MLOps, Tableau, PowerBI</b></li>
-  <li>👯 I'm looking to collaborate on <b>Desktop_Based_APP</b></li>
-  <li>🤝 I'm looking for help with <b>Mobile_APP</b></li>
-  <li>👨‍💻 All of my projects are available at <a href="https://hasee10.github.io/Personal_Website/">Personal Website</a></li>
+<!-- PROFILE CARD -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius:50%;border:4px solid #222;box-shadow:0 0 20px #222;" alt="Profile"/>
+</p>
+<h1 align="center" style="color:#fff;">Haseeb Arshad</h1>
+<p align="center" style="color:#aaa;font-size:1.2em;">🚀 ML | Web | Game Dev | Data Scientist | UI/UX Enthusiast</p>
+
+<!-- METRICS SVG (GitHub Metrics by lowlighter) -->
+<p align="center">
+  <img src="https://github.com/hasee10/hasee10/blob/main/github-metrics.svg" width="90%" alt="GitHub Metrics"/>
+</p>
+
+<!-- ABOUT ME SECTION -->
+<h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="28"/> About Me</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="40"/>
+</div>
+<ul style="color:#fff;">
+  <li>🔭 Currently working on <b>Nascon_Project</b></li>
+  <li>🌱 Learning <b>DevOps, MLOps, Tableau, PowerBI</b></li>
+  <li>👯 Looking to collaborate on <b>Desktop_Based_APP</b></li>
+  <li>🤝 Looking for help with <b>Mobile_APP</b></li>
+  <li>👨‍💻 Projects: <a href="https://hasee10.github.io/Personal_Website/">Personal Website</a></li>
   <li>💬 Ask me about <b>React, FastAPI, Firebase</b></li>
-  <li>📫 How to reach me <b>ihaseebarshad10@gmail.com</b></li>
-  <li>📄 Know about my experiences <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347">LinkedIn</a></li>
-  <li>⚡ Fun fact <b>Football and Parliamentary Debates</b></li>
+  <li>📫 Email: <b>ihaseebarshad10@gmail.com</b></li>
+  <li>📄 Experience: <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347">LinkedIn</a></li>
+  <li>⚡ Fun fact: <b>Football and Parliamentary Debates</b></li>
 </ul>
 
-<!-- Socials Section -->
-<h3 align="center">🌐 Connect with me</h3>
+<!-- BADGES & SKILLS -->
+<h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/star/star-original.svg" width="28"/> Skills & Tools</h2>
 <p align="center">
-  <a href="https://twitter.com/hase60135" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/haseeb-arshad-09881b347" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/ihaseebarshad10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/ihaseebarshad10" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-<!-- Languages and Tools Section with GIFs -->
-<h3 align="center">🛠️ Languages and Tools</h3>
+<!-- 3D CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" alt="Coding"/>
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" alt="JS"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="60" alt="Python"/>
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="React"/>
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="60" alt="Docker"/>
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="60" alt="NodeJS"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60" alt="UI/UX"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="60" alt="MLOps"/>
+  <img src="https://github.com/hasee10/hasee10/raw/output/github-contribution-grid-snake-dark.svg" width="90%" alt="3D Contribution Graph"/>
 </p>
 
-<!-- Stats Section -->
-<h3 align="center">📊 GitHub Stats</h3>
+<!-- SOCIALS -->
+<h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> Connect with Me</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasee10&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hasee10&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://twitter.com/hase60135"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/haseeb-arshad-09881b347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ihaseebarshad10"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/ihaseebarshad10"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
-<!-- Footer GIF -->
+<!-- GITHUB STATS (dark mode) -->
+<h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> GitHub Stats</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="30%" alt="Footer Coding" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasee10&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasee10&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+<!-- FOOTER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20%" alt="Footer Coding" />
 </p>
 
