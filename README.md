@@ -84,8 +84,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasee10&layout=compact&theme=dark&hide_border=true" width="48%"/>
 </p>
 
-<!-- FOOTER GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="20%" alt="Footer Coding" />
-</p>
 
