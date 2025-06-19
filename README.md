@@ -30,8 +30,6 @@
 
 <!-- Profile Views and Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasee10&label=Profile%20views&color=0e75b6&style=flat" alt="hasee10" />
-  <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasee10" alt="hasee10" /></a>
 </p>
 
