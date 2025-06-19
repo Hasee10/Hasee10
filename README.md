@@ -1,7 +1,7 @@
 <!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) -->
 <p align="center">
   <!-- Example for GIF-based animation -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Futuristic ML Banner" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Developer Workflow Cosmos" />
 </p>
 
 <h1 align="center">
