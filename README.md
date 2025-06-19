@@ -1,3 +1,17 @@
+<!-- BACKGROUND SVG OVERLAY: Dark Purple to Pink Gradient with Floating Elements -->
+<p align="center" width="100%" style="position:relative;z-index:0;">
+  <img src="https://svgshare.com/i/15kA.svg" width="100%" style="position:absolute;top:0;left:0;z-index:-1;min-width:900px;" alt="Purple Pink Gradient Background"/>
+</p>
+<!-- FLOATING CODE ELEMENTS (SVG ICONS) -->
+<p align="center" style="position:relative;z-index:1;">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/code.svg" width="36" style="position:absolute;top:40px;left:10%;opacity:0.7;" alt="Code Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gear.svg" width="32" style="position:absolute;top:120px;right:12%;opacity:0.6;" alt="Gear Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terminal.svg" width="32" style="position:absolute;top:80px;left:80%;opacity:0.7;" alt="Terminal Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sparkles.svg" width="28" style="position:absolute;top:180px;left:20%;opacity:0.5;" alt="Sparkles Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chevron.svg" width="28" style="position:absolute;top:220px;right:18%;opacity:0.5;" alt="Chevron Icon"/>
+</p>
+<!-- END BACKGROUND & FLOATING ELEMENTS -->
+
 <!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!;Passionate+Data+Scientist" alt="Typing SVG" />
