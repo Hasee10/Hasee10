@@ -29,22 +29,6 @@
 </blockquote>
 
 
-<!-- DARK THEME BANNER (simulate dark background) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Dark Banner"/>
-</p>
-
-<!-- PROFILE CARD -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius:50%;border:4px solid #222;box-shadow:0 0 20px #222;" alt="Profile"/>
-</p>
-<h1 align="center" style="color:#fff;">Haseeb Arshad</h1>
-<p align="center" style="color:#aaa;font-size:1.2em;">🚀 ML | Web | Game Dev | Data Scientist | UI/UX Enthusiast</p>
-
-<!-- METRICS SVG (GitHub Metrics by lowlighter) -->
-<p align="center">
-  <img src="https://github.com/hasee10/hasee10/blob/main/github-metrics.svg" width="90%" alt="GitHub Metrics"/>
-</p>
 
 <!-- ABOUT ME SECTION -->
 <h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="28"/> About Me</h2>
