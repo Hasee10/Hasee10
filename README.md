@@ -145,8 +145,6 @@
   <a href="https://www.hackerrank.com/ihaseebarshad10"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
----
-
 <!-- 📈 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -162,8 +160,6 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hasee10&theme=radical&hide_border=true" width="60%"/>
 </p>
-
----
 
 <!-- 🏁 Footer Banner -->
 <p align="center">
