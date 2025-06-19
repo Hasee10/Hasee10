@@ -1,16 +1,16 @@
-<!-- BACKGROUND SVG OVERLAY: Dark Purple to Pink Gradient with Floating Elements -->
-<p align="center" width="100%" style="position:relative;z-index:0;">
-  <img src="https://svgshare.com/i/15kA.svg" width="100%" style="position:absolute;top:0;left:0;z-index:-1;min-width:900px;" alt="Purple Pink Gradient Background"/>
+<!-- TOP PURPLE-PINK GRADIENT BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" alt="Purple Pink Gradient Banner"/>
 </p>
-<!-- FLOATING CODE ELEMENTS (SVG ICONS) -->
-<p align="center" style="position:relative;z-index:1;">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/code.svg" width="36" style="position:absolute;top:40px;left:10%;opacity:0.7;" alt="Code Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gear.svg" width="32" style="position:absolute;top:120px;right:12%;opacity:0.6;" alt="Gear Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terminal.svg" width="32" style="position:absolute;top:80px;left:80%;opacity:0.7;" alt="Terminal Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sparkles.svg" width="28" style="position:absolute;top:180px;left:20%;opacity:0.5;" alt="Sparkles Icon"/>
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chevron.svg" width="28" style="position:absolute;top:220px;right:18%;opacity:0.5;" alt="Chevron Icon"/>
+
+<!-- CODE-THEMED ICONS ROW -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/code.svg" width="36" alt="Code Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gear.svg" width="32" alt="Gear Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/terminal.svg" width="32" alt="Terminal Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sparkles.svg" width="28" alt="Sparkles Icon"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chevron.svg" width="28" alt="Chevron Icon"/>
 </p>
-<!-- END BACKGROUND & FLOATING ELEMENTS -->
 
 <!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) -->
 <p align="center">
@@ -41,8 +41,6 @@
   <br/>
   <i>- Austin Freeman</i>
 </blockquote>
-
-
 
 <!-- ABOUT ME SECTION -->
 <h2 align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="28"/> About Me</h2>
@@ -96,6 +94,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasee10&show_icons=true&theme=dark&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasee10&layout=compact&theme=dark&hide_border=true" width="48%"/>
+</p>
+
+<!-- BOTTOM PURPLE-PINK GRADIENT BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" alt="Purple Pink Gradient Banner"/>
 </p>
 
 
