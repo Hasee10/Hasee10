@@ -28,10 +28,6 @@
   <i>- Austin Freeman</i>
 </blockquote>
 
-<!-- Profile Views and Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasee10" alt="hasee10" /></a>
-</p>
 
 <!-- GIF Grid Section -->
 <table align="center">
