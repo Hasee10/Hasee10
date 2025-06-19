@@ -149,9 +149,18 @@
 
 <!-- 📈 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasee10&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hasee10&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
+
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasee10&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasee10&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 ---
