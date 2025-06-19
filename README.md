@@ -76,14 +76,6 @@
 
 ---
 
-<!-- 🧱 Contribution Graph Snake -->
-<h2 align="center">🐍 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github.com/hasee10/hasee10/raw/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake" />
-</p>
-
----
-
 <!-- 🌐 Social Links -->
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
