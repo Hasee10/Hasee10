@@ -12,20 +12,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasee10" alt="hasee10" /></a> </p>
 
-<!-- Futuristic Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="60%" alt="Futuristic Tech Banner" />
-</p>
-
-<!-- SVG Background Element -->
-<p align="center">
-  <img src="https://www.transparenttextures.com/patterns/cubes.png" width="100%" height="20" style="opacity:0.1;position:absolute;top:0;left:0;z-index:-1;" alt="Background Cubes" />
-</p>
-
-<!-- Animated Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!;Passionate+Data+Scientist" alt="Typing SVG" />
-</p>
 
 <!-- Quotes Section -->
 <blockquote align="center">
