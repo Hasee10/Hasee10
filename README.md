@@ -38,7 +38,6 @@
 
 ## 🌟 Current Interests
 
-```yaml
 Hobbies:
   - Football ⚽
   - Game Theory & Game Dev 🎮
@@ -84,7 +83,6 @@ Goals:
 ## 🔗 Powered By
 
 > Created with ❤️ by [GPRM](https://gprm.itsvg.in), [Skillicons.dev](https://skillicons.dev), and ✨ your imagination!
-```
 
 ---
 
