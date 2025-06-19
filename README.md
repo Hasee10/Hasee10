@@ -1,18 +1,93 @@
-# 💫 About Me:
-ML models and iterest in various fields<br>Can collaborate on python, game and data science related stuff<br>Im looking to help build my career and want to start of with a good pace<br>Currently I have a strong interest in web development escpecially front end i.e UI/UX alonfg with strong pace in react.js, html, css and javascript<br>Ask me anything about games, ML, AI, DevOps, MLOps,<br>Fun fact about me is that I am a very good football player and I have a strong basing in MUN's, especially parliamentary debating.
+<!-- Animated Banner (LottieFiles or GIF) -->
+<p align="center">
+  <img src="https://lottie.host/6e7e7e7e-animated-banner.json" width="100%" alt="Animated Banner" />
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ihaseebarshad10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/haseeb-arshad-09881b347) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Hase60135) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@i2332578@isb.nu.edu.pk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ihaseebarshad10@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hasee10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hasee10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasee10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=2D6CDF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Arshad!;ML+%7C+Web+%7C+Game+Dev+Enthusiast;React%2C+Python%2C+UI%2FUX+Lover;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hasee10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🤖 **ML models** | 🕹️ **Game Dev** | 📊 **Data Science**
+- 💻 **Front-end Web Dev**: React.js, UI/UX, HTML, CSS, JS
+- 🤝 **Collab:** Python, Game Dev, Data Science
+- 🚀 **Career:** Building fast, learning faster!
+- 🏆 **Fun Fact:** Footballer & MUN Parliamentary Debater
+
+---
+
+<details>
+  <summary><b>🌐 Connect with me</b></summary>
+  <br>
+  <p align="center">
+    <a href="https://instagram.com/ihaseebarshad10"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+    <a href="https://linkedin.com/in/haseeb-arshad-09881b347"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+    <a href="https://x.com/Hase60135"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+    <a href="mailto:ihaseebarshad10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+    <a href="https://youtube.com/@i2332578@isb.nu.edu.pk"><img src="https://skillicons.dev/icons?i=youtube" height="40" /></a>
+  </p>
+</details>
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,cpp,java,typescript,tailwind,bootstrap,figma,adobe,flask,django,nodejs,express,mongodb,mysql,sqlite,git,github,docker,vercel,anaconda,opencv,matplotlib,pandas,numpy,scikit-learn,tensorflow,plotly,powershell,latex,cloud,oracle,openstack,unity,unreal,fastapi" />
+</p>
+
+---
+
+<details>
+  <summary><b>📈 GitHub Stats & Activity</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hasee10&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasee10&theme=radical&hide_border=false" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasee10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+  </p>
+</details>
+
+---
+
+## 🏆 Featured Projects
+
+<!-- Replace with your own project links and GIFs/screenshots -->
+<p align="center">
+  <a href="https://github.com/Hasee10/your-ml-project">
+    <img src="https://github.com/Hasee10/your-ml-project/raw/main/demo.gif" width="300" alt="ML Project Demo"/>
+  </a>
+  <a href="https://github.com/Hasee10/your-web-project">
+    <img src="https://github.com/Hasee10/your-web-project/raw/main/demo.gif" width="300" alt="Web Project Demo"/>
+  </a>
+</p>
+
+---
+
+<details>
+  <summary><b>🎮 Fun Facts</b></summary>
+  <ul>
+    <li>⚽ Footballer (Striker!)</li>
+    <li>🗣️ MUN Parliamentary Debater</li>
+    <li>🎮 Game Dev & AI Enthusiast</li>
+  </ul>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Hasee10&icon=0&color=0" alt="Profile Visit Count"/>
+</p>
+
+<!--
+**Tips for even more animation:**
+- Use [LottieFiles](https://lottiefiles.com/) for animated SVGs (hosted as GIF or via shields.io)
+- Use [skillicons.dev](https://skillicons.dev/) for animated tech stack icons
+- Use [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) for animated typing effect
+- Use collapsible sections for interactivity
+- Add GIFs/screenshots of your projects
+- For more, check out: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+-->
