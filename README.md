@@ -1,7 +1,7 @@
-<!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70%" alt="Developer Workflow Cosmos" />
+<!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) --><p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="100%" alt="Futuristic Tech Banner" />
 </p>
+
 
 
 
