@@ -1,160 +1,75 @@
-<h1 align="center">Hi 👋, I'm Haseeb Arshad</h1>
-<h3 align="center">🚀 Turning Data into Insightful Web Experiences</h3>
+<!-- README.md -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Muhammad+Haseeb+Arshad;ML+Engineer+%7C+Front-End+Dev+%7C+Debater+%F0%9F%8E%99%EF%B8%8F;Let's+build+awesome+projects+%F0%9F%9A%80" alt="Typing SVG"/>
+</h1>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:928DAB&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=35&desc=Explore%20my%20work%20and%20connect%20with%20me!&descAlignY=55"/>
+</div>
+
+---
+
+## 💫 About Me
+- 🔍 Passionate about ML, game dev, and web UI/UX.
+- 👨‍💻 Currently building in React.js, JS, HTML, CSS.
+- 🚀 Looking to collaborate on Python, Data Science, Web Dev projects.
+- ⚽ Fun fact: I play football at a competitive level & ace MUN debates!
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Data-driven+developer+%F0%9F%92%BB;Loves+interactive+visualizations+%F0%9F%8E%A8;Machine+Learning+enthusiast+%F0%9F%94%A5;Let's+build+something+amazing+!" alt="Typing SVG" />
+  <a href="https://instagram.com/ihaseebarshad10"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Hase60135"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:ihaseebarshad10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://youtube.com/@i2332578@isb.nu.edu.pk"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 </p>
 
-# Haseeb Arshad's Personal Portfolio 🚀
+---
 
-![Website Header Screenshot](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/images/image_fd3aab.jpg) 
-*(Replace with actual path to image in your repo)*
-
-Welcome to the GitHub repository for my personal website! This repository serves as the central hub for my online portfolio, where I showcase my journey as a Data Scientist and Software Developer, highlight my projects, and detail my technical skills.
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,react,html,css,js,nodejs,express,mongodb,mysql,flask,django,tailwind,figma,firebase,vercel,git,docker,anaconda,tensorflow,scikit-learn,numpy,pandas,opencv" />
+</p>
 
 ---
 
-## Table of Contents
-- [✨ About Me](#-about-me)
-- [🛠️ Tech Stack & Skills](#️-tech-stack--skills)
-- [📂 Development Portfolio](#-development-portfolio)
-  - [🗄️ DBMS Project](#️-dbms-project)
-  - [🚦 Traffic Management System](#-traffic-management-system)
-  - [👾 Arkadroid Brick Breaker](#-arkadroid-brick-breaker)
-- [📞 Get In Touch](#-get-in-touch)
-- [⚙️ How to Run Locally](#️-how-to-run-locally)
-- [📜 License](#-license)
+## 🚀 Projects
+- 🎯 **TrafficIntel** – A traffic management system using OOP + DBMS
+- 💡 **NASCON Website** – Full-stack site using MySQL, Node.js, JS, HTML/CSS
+- 🧠 **ML-based Prediction App** – Deployed via Flask + Vercel + Firebase
 
 ---
 
-## ✨ About Me
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasee10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasee10&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
+</div>
 
-As a passionate **Data Scientist and Software Developer** currently navigating my 4th semester, I thrive on blending analytical expertise with robust coding skills. My journey is defined by a commitment to solving real-world problems and continuous growth in both data science and software engineering domains.
-
-> "I'm eager to apply these skills to solve real-world problems and grow further in both data science and software engineering."
-
-### Quick Stats:
-[![Hands-On Experience](https://img.shields.io/badge/2%2B-Hands--On%20Experience-blue.svg)](https://yourwebsite.com/#about)
-[![Projects Built & Deployed](https://img.shields.io/badge/10%2B-Built%20%26%20Deployed-green.svg)](https://yourwebsite.com/#projects)
-[![Collaborative Wins](https://img.shields.io/badge/15%2B-Collaborative%20Wins-purple.svg)](https://yourwebsite.com/#about)
-
-### My Tech Stack Highlights:
-* **Languages:** Python, R, C++, C#, HTML, CSS, JavaScript, SQL
-* **Frameworks/Libraries:** React.js, Node.js, Express, TensorFlow, PyTorch, Scikit-Learn
-* **Databases:** MongoDB, MySQL
-* **Tools/Concepts:** Docker, Kubernetes, CI/CD, Git, Cloud (AWS/Azure), Data Analysis, Deep Learning, NLP, Data Visualization, Matplotlib, Tableau, Power BI
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hasee10&theme=dark&hide_border=false"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasee10&theme=onedark&no-frame=true&row=1&column=6"/>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-This section provides a more detailed overview of the technologies and tools I work with. My skill set is continuously expanding, reflecting my commitment to staying current with industry trends and best practices.
-
-![Skills & Expertise Screenshot](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/images/image_fd3aeb.jpg)
-*(Replace with actual path to image in your repo)*
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/Hasee10/Hasee10/raw/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ---
 
-## 📂 Development Portfolio
-
-Here's a glimpse into some of the projects I've built and deployed. Each project showcases my ability to combine creativity, logic, and functionality to deliver impactful solutions.
-
-![Development Portfolio Screenshot](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/images/image_fd3ac8.jpg)
-*(Replace with actual path to image in your repo)*
-
----
-
-### 🗄️ DBMS Project
-
-A robust, full-stack database management system project with a modern UI, robust backend, and secure features for efficient data management and visualization. This project consisted of backend and front-end made with the essentials of SQL respectively.
-
-**Key Technologies:** React, Node.js, HTML, CSS, MySQL
-
-**Features:**
--   **Frontend:** Built with React and modern CSS, providing a seamless and interactive user experience for managing and visualizing data.
-    ![DBMS Frontend Code Snippet](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/images/image_fda843.png)
--   **Backend & Database:** The backend uses Node.js and Express to provide RESTful APIs, with MySQL as the database for efficient data storage and retrieval.
--   **Security & Exports:** Security is enforced with JWT authentication and password hashing. Data can be exported as CSV or PDF for reporting and sharing.
-
-**Project Page Screenshot:**
-![DBMS Project Page](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/images/image_fd3b21.jpg)
-
-**Explore the Project:**
-[▶️ View Demo](https://yourwebsite.com/dbms-project-demo) | [🌐 GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/DBMS-Project-Repo)
+## 🤖 Fun Facts & Interests
+- ⚽ National-level footballer
+- 🧠 MUNer and debater with international recognition
+- 💡 Always experimenting with UI/UX + animations
+- 💬 Ask me anything about React, ML, AI, DevOps & more!
 
 ---
 
-### 🚦 Traffic Management System
-
-A C++ simulation game that demonstrates traffic flow optimization and management. This project highlights my proficiency in C++ programming and understanding of simulation principles.
-
-**Key Technologies:** C++, Simulation, AI (if applicable, based on your image tags)
-
-**Explore the Project:**
-[▶️ View Demo](https://yourwebsite.com/traffic-system-demo) | [🌐 GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/Traffic-System-Repo)
-
----
-
-### 👾 Arkadroid Brick Breaker
-
-A classic brick breaker game built with C++ and Object-Oriented Programming principles. This project showcases my abilities in game development and applying fundamental OOP concepts.
-
-**Key Technologies:** C++, OOP, Graphics (if applicable, based on your image tags)
-
-**How to Play:**
-![Arkadroid How to Play](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/images/image_fdab47.png)
-*(Replace with actual path to image in your repo)*
-
-**Project Page Screenshot:**
-![Arkadroid Project Page](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/images/image_fdab28.jpg)
-
-**Explore the Project:**
-[▶️ View Demo](https://yourwebsite.com/arkadroid-demo) | [🌐 GitHub Repo](https://github.com/YOUR_GITHUB_USERNAME/Arkadroid-Repo)
-
----
-
-## 📞 Get In Touch
-
-I'm always excited to meet fellow developers, data lovers, and creators! Whether you have a project idea, a question, or just want to say hi, I'm all ears.
-
-> Let's Connect and Collaborate! 👋
-
-Check out my work, follow the journey, and stay tuned for upcoming projects, blogs, and more. Let's build and grow together!
-
-**Connect with me:**
-[✉️ Email](mailto:your.email@example.com) | [🔗 LinkedIn](https://www.linkedin.com/in/yourprofile/) | [⚛️ Your Website](https://yourwebsite.com)
-
----
-
-## ⚙️ How to Run Locally
-
-If you'd like to explore this website project locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
-    ```
-2.  **Install dependencies:**
-    *(Assuming a Node.js/React project for your website)*
-    ```bash
-    npm install
-    # or if you use yarn
-    # yarn install
-    ```
-3.  **Start the development server:**
-    ```bash
-    npm start
-    # or
-    # yarn start
-    ```
-    The website should now be running on `http://localhost:3000` (or another port specified in your project).
-
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
-*(Replace `LICENSE` with the actual path to your license file if you have one, or link to a standard license text.)*
-
----
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Hasee10&icon=0&color=0" />
+</p>
