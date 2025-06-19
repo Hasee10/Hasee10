@@ -1,5 +1,6 @@
-<!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) --><p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="50%" alt="Futuristic Tech Banner" />
+<!-- Animated Banner (Use iframe for Lottie or upload a GIF instead) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" alt="Mythical Dragon Coding" />
 </p>
 
 
