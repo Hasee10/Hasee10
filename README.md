@@ -1,22 +1,3 @@
-Absolutely! 👨‍💻 Based on your impressive skillset and clearly defined professional interests, here's a **vastly enhanced** version of your GitHub profile **README**. This version is:
-
-✅ Interactive  
-✅ Beautifully Animated  
-✅ Highly Visual  
-✅ Recruitment- and community-friendly  
-✅ Fully **copy-paste deployable**  
-
-💡 **Best Part**: It will WOW recruiters, collaborators, and anyone who visits your GitHub.
-
----
-
-> ✅ You can preview it like a webpage using [GPRM Studio ↗](https://gprm.itsvg.in), or just copy and paste it directly into your GitHub `README.md`.
-
----
-
-### 🚀 Your Animated, Upgraded README.md
-
-```markdown
 <!-- Animated GitHub Profile README for @Hasee10 -->
 
 <p align="center">
