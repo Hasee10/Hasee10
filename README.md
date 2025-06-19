@@ -22,24 +22,6 @@
 
 ---
 
-<!-- 💬 Motivational Developer Quotes -->
-<h2 align="center">🧠 Developer Quotes</h2>
-<blockquote align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" />
-  <b>"Code is like humor. When you have to explain it, it's bad."</b>
-  <br/>
-  <i>- Cory House</i>
-</blockquote>
-
-<blockquote align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="60" />
-  <b>"Simplicity is the soul of efficiency."</b>
-  <br/>
-  <i>- Austin Freeman</i>
-</blockquote>
-
----
-
 <!-- 👤 About Me Section -->
 <h2 align="center">📘 About Me</h2>
 <div align="center">
@@ -133,6 +115,24 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+---
+
+<!-- 💬 Motivational Developer Quotes -->
+<h2 align="center">🧠 Developer Quotes</h2>
+<blockquote align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" />
+  <b>"Code is like humor. When you have to explain it, it's bad."</b>
+  <br/>
+  <i>- Cory House</i>
+</blockquote>
+
+<blockquote align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="60" />
+  <b>"Simplicity is the soul of efficiency."</b>
+  <br/>
+  <i>- Austin Freeman</i>
+</blockquote>
 
 ---
 
