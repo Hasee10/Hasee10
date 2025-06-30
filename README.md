@@ -36,14 +36,14 @@
     </td>
     <td>
       <ul>
-        <li>🔭 <strong>Currently Working On:</strong> <code>Nascon_Project</code> — a system leveraging full-stack principles.</li>
-        <li>🌱 <strong>Learning:</strong> DevOps 🚀 | MLOps 🤖 | Tableau 📊 | PowerBI 📈</li>
-        <li>🤝 <strong>Collaboration:</strong> Seeking enthusiastic devs for impactful <code>Desktop & Mobile App</code> ideas.</li>
-        <li>🖥️ <strong>Projects:</strong> <a href="https://hasee10.github.io/Personal_Website/">Portfolio Website</a> showcasing UI/UX creativity + backend integration</li>
-        <li>💬 <strong>Ask me about:</strong> React ⚛️ | Firebase 🔥 | FastAPI ⚡</li>
-        <li>📫 <strong>Reach Me:</strong> <a href="mailto:ihaseebarshad10@gmail.com">ihaseebarshad10@gmail.com</a></li>
-        <li>📄 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347">Let's connect</a> and grow together!</li>
-        <li>⚽ <strong>Fun Fact:</strong> National-level footballer ⚽ & MUN enthusiast 🎙️</li>
+        <li>🔭 <strong>Currently Working On:</strong> <code>MLOPs Pipeline for USL</code> — a full CI/CD solution showcasing modern system design and implementation.</li>
+        <li>🌱 <strong>Actively Learning:</strong> DevOps 🚀 | MLOps 🤖 | Tableau 📊 | Power BI 📈</li>
+        <li>🤝 <strong>Open to Collaborate:</strong> Looking for passionate developers to co-build innovative <code>ML Pipelines</code> & <code>Web based Applications</code>.</li>
+        <li>🖥️ <strong>Featured Project:</strong> <a href="https://hasee10.github.io/Personal_Website/" target="_blank">Portfolio Website</a> — blending sleek UI/UX with   backend functionality.</li>
+        <li>💬 <strong>Ask Me About:</strong> React ⚛️ | Firebase 🔥 | FastAPI ⚡</li>
+        <li>📫 <strong>Contact:</strong> <a href="mailto:ihaseebarshad10@gmail.com">ihaseebarshad10@gmail.com</a></li>
+        <li>📄 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/haseeb-arshad-09881b347" target="_blank">Let’s connect</a> and build something meaningful!</li>
+        <li>⚽ <strong>Fun Fact:</strong> Chef AND Footballer | MUN enthusiast 🎙️</li>
       </ul>
     </td>
   </tr>
