@@ -1,15 +1,3 @@
-Perfect! Thanks Haseeb. Based on what you've provided, I’ll now generate a README that **keeps the exact same UI/UX as Aayush Bharti’s**, but with your own:
-
-* Portfolio link
-* LinkedIn
-* GitHub username: `Hase6035`
-* Name: Haseeb Arshad
-
----
-
-Here's your customized version (keep your assets organized like `assets/banner.jpg`, etc.):
-
-````html
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
 <!-- <h1 align="center"><a href="https://hasee10.github.io/Personal_Portfolio/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Haseeb+Arshad" alt="Hey there 🙋‍♂️, I'm Haseeb Arshad" /></a></h1> -->
