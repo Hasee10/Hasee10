@@ -72,7 +72,7 @@
 ---
 
 <!-- 🛠 Skills & Tools -->
-<h2 align="center">🛠 ech tack & Tools</h2>
+<h2 align="center">🛠 Tech tack & Tools</h2>
 
 <p align="center">
   <!-- Programming Languages -->
